@@ -51,14 +51,7 @@ To-do:
             histogram of currency types
             pie chart of payment methods within USD
             Get graph to show human-readable date, not unix
-            
-Tomorrow:
-    
-        Finish BTC price import, make sure dates are compatible (str, int) so that it visualizes correctly.
-        Clean up files to make more generalized program
-        Add BTC price import into DB
-        Try a query using BTC price (USD value of transactions)
-        Start importing economic data
+         
 """
 
 """
